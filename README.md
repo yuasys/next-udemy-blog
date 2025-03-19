@@ -1,3 +1,5 @@
+📌このコンテンツは[Udemyの講座](https://www.udemy.com/course/nextjs-basic/learn/lecture/47502757#overview)に基づいています。（詳しい情報はUdemyの講座を購入者のみ取得できます）
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
